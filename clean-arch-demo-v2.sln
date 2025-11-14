@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clean-arch-demo-v2-Api", "clean-arch-demo-v2-Api\clean-arch-demo-v2-Api.csproj", "{349FB205-8C87-4814-AC56-83BE00A5E4E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clean-arch-demo-v2.Api", "clean-arch-demo-v2.Api\clean-arch-demo-v2.Api.csproj", "{349FB205-8C87-4814-AC56-83BE00A5E4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clean-arch-demo-v2.Domain", "clean-arch-demo-v2.Domain\clean-arch-demo-v2.Domain.csproj", "{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clean-arch-demo-v2.Application", "clean-arch-demo-v2.Application\clean-arch-demo-v2.Application.csproj", "{00214465-ACF1-42FD-94D9-6C925F71204B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clean-arch-demo-v2.Infrastructure", "clean-arch-demo-v2.Infrastructure\clean-arch-demo-v2.Infrastructure.csproj", "{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{349FB205-8C87-4814-AC56-83BE00A5E4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{349FB205-8C87-4814-AC56-83BE00A5E4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{349FB205-8C87-4814-AC56-83BE00A5E4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00214465-ACF1-42FD-94D9-6C925F71204B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00214465-ACF1-42FD-94D9-6C925F71204B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00214465-ACF1-42FD-94D9-6C925F71204B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00214465-ACF1-42FD-94D9-6C925F71204B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

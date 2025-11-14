@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.application\\blogs\\queries\\getblogs\\getblogqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|solutionrelative:clean-arch-demo-v2.application\\blogs\\queries\\getblogs\\getblogqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.application\\blogs\\queries\\getblogs\\getblogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|solutionrelative:clean-arch-demo-v2.application\\blogs\\queries\\getblogs\\getblogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.application\\blogs\\queries\\getblogs\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|solutionrelative:clean-arch-demo-v2.application\\blogs\\queries\\getblogs\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}|clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.domain\\entity\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}|clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj|solutionrelative:clean-arch-demo-v2.domain\\entity\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}|clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.domain\\clean-arch-demo-v2.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}|clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj|solutionrelative:clean-arch-demo-v2.domain\\clean-arch-demo-v2.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}|clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.domain\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EFEE41-C9F5-4D55-852E-64AEBAFFB7B1}|clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj|solutionrelative:clean-arch-demo-v2.domain\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349FB205-8C87-4814-AC56-83BE00A5E4E6}|clean-arch-demo-v2.Api\\clean-arch-demo-v2.Api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349FB205-8C87-4814-AC56-83BE00A5E4E6}|clean-arch-demo-v2.Api\\clean-arch-demo-v2.Api.csproj|solutionrelative:clean-arch-demo-v2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}|clean-arch-demo-v2.Infrastructure\\clean-arch-demo-v2.Infrastructure.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}|clean-arch-demo-v2.Infrastructure\\clean-arch-demo-v2.Infrastructure.csproj|solutionrelative:clean-arch-demo-v2.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|solutionrelative:clean-arch-demo-v2.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00214465-ACF1-42FD-94D9-6C925F71204B}|clean-arch-demo-v2.Application\\clean-arch-demo-v2.Application.csproj|solutionrelative:clean-arch-demo-v2.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +71,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetBlogQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQueryHandler.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQueryHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQueryHandler.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:52:28.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetBlogQuery.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQuery.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQuery.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQuery.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:48:09.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogVm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\BlogVm.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\BlogVm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\BlogVm.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\BlogVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:45:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\Repository\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Domain\\Repository\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\Repository\\IBlogRepository.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Domain\\Repository\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:40:12.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\Entity\\Blog.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Domain\\Entity\\Blog.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\Entity\\Blog.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Domain\\Entity\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:37:52.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Class1.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:30:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Api\\Program.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Api\\Program.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:27:49.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:18:43.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clean-arch-demo-v2.Domain",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj",
+              "RelativeToolTip": "clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T11:09:38.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\ConfigurationServices.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Application\\ConfigurationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:33:25.782Z",
+              "EditorCaption": ""
             }
           ]
         },

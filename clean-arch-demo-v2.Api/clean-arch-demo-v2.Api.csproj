@@ -4,11 +4,16 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>clean_arch_demo_v2_Api</RootNamespace>
+    <RootNamespace>clean_arch_demo_v2.Api</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\clean-arch-demo-v2.Application\clean-arch-demo-v2.Application.csproj" />
+    <ProjectReference Include="..\clean-arch-demo-v2.Infrastructure\clean-arch-demo-v2.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
