@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}|clean-arch-demo-v2.Infrastructure\\clean-arch-demo-v2.Infrastructure.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}|clean-arch-demo-v2.Infrastructure\\clean-arch-demo-v2.Infrastructure.csproj|solutionrelative:clean-arch-demo-v2.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}|clean-arch-demo-v2.Infrastructure\\clean-arch-demo-v2.Infrastructure.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.infrastructure\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}|clean-arch-demo-v2.Infrastructure\\clean-arch-demo-v2.Infrastructure.csproj|solutionrelative:clean-arch-demo-v2.infrastructure\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{349FB205-8C87-4814-AC56-83BE00A5E4E6}|clean-arch-demo-v2.Api\\clean-arch-demo-v2.Api.csproj|solutionrelative:clean-arch-demo-v2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}|clean-arch-demo-v2.Infrastructure\\clean-arch-demo-v2.Infrastructure.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\software development\\backend\\dotnet-c#\\clean-arch-demo-v2\\clean-arch-demo-v2.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF03B738-3ADC-46DA-B75D-1F890B28C5D6}|clean-arch-demo-v2.Infrastructure\\clean-arch-demo-v2.Infrastructure.csproj|solutionrelative:clean-arch-demo-v2.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clean-arch-demo-v2.Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,12 +122,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\Repository\\BlogRepository.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Infrastructure\\Repository\\BlogRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\Repository\\BlogRepository.cs*",
-              "RelativeToolTip": "clean-arch-demo-v2.Infrastructure\\Repository\\BlogRepository.cs*",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\Repository\\BlogRepository.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Infrastructure\\Repository\\BlogRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T23:32:04.934Z",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BlogDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\Data\\BlogDbContext.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Infrastructure\\Data\\BlogDbContext.cs",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DeleteBlogCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommandHandler.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommandHandler.cs",
@@ -161,7 +161,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
+              "RelativeToolTip": "clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:18:43.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DeleteBlogCommand.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommand.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommand.cs",
@@ -174,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UpdateBlogCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommandHandler.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommandHandler.cs",
@@ -187,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UpdateBlogCommand.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommand.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommand.cs",
@@ -200,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IBlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\Repository\\IBlogRepository.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Domain\\Repository\\IBlogRepository.cs",
@@ -213,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CreateBlogCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
@@ -226,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CreateBlogCommand.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
@@ -239,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetBlogByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogById\\GetBlogByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogById\\GetBlogByIdQueryHandler.cs",
@@ -252,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "GetBlogByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogById\\GetBlogByIdQuery.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogById\\GetBlogByIdQuery.cs",
@@ -265,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Common\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Common\\Mappings\\MappingProfile.cs",
@@ -278,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IMapFrom.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Common\\Mappings\\IMapFrom.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Common\\Mappings\\IMapFrom.cs",
@@ -291,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GetBlogQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQueryHandler.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQueryHandler.cs",
@@ -304,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BlogVm.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\BlogVm.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\BlogVm.cs",
@@ -317,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\Entity\\Blog.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Domain\\Entity\\Blog.cs",
@@ -341,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ConfigurationServices.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\ConfigurationServices.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\ConfigurationServices.cs",
@@ -354,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GetBlogQuery.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQuery.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Application\\Blogs\\Queries\\GetBlogs\\GetBlogQuery.cs",
@@ -367,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Api\\Program.cs",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Api\\Program.cs",
@@ -380,20 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ConfigurationServices.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
-              "RelativeDocumentMoniker": "clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
-              "RelativeToolTip": "clean-arch-demo-v2.Infrastructure\\ConfigurationServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T11:18:43.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "clean-arch-demo-v2.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\Software Development\\Backend\\DotNET-C#\\clean-arch-demo-v2\\clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj",
               "RelativeDocumentMoniker": "clean-arch-demo-v2.Domain\\clean-arch-demo-v2.Domain.csproj",
