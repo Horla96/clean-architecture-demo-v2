@@ -20,9 +20,9 @@ namespace clean_arch_demo_v2.Application.Blogs.Commands.CreateBlog
         public async Task<BlogVm> Handle(CreateBlogCommand request, CancellationToken cancellationToken)
         {
             var blogEntity = new Blog() { Name = request.Name, Description = request.Description, Author = request.Author };
-            var result = await _blogRepository.CreateAsync(blogEntity);
+            var Result = await _blogRepository.CreateAsync(blogEntity);
 
-            return _mapper.Map<BlogVm>(result);
+            return _mapper.Map<BlogVm>(Result);
         }
     }
 }
